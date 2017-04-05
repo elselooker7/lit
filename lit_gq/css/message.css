@@ -1,0 +1,26 @@
+  #messagePage .head{
+    text-align: center;
+    font-size: .18rem;
+    line-height: .44rem;
+  }
+  #messagePage .body{
+    background-color: #f6f6f6;
+  }
+  #messagePage .nav_me{
+    margin-top: 0;
+    border-top: none;
+    /*border-bottom: solid .01rem #eee;*/
+  }
+  #messagePage .nav_me td{
+    width: 30%;
+  }
+  #messagePage .nav_me td a{
+    padding: 0;
+    font-size: .15rem;
+    line-height: .4rem;
+    background-color: #f6f6f6;
+  }
+  #messagePage .nav_me td a.on{
+    background-color: #fff;
+    color: #006a8f;
+  }
